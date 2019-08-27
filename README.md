@@ -1,7 +1,7 @@
 # HelloFlask
 Exemplo de API com o framework Flask.
 
-Exemplo simples na pratica de uma API simples utilizando Flask com python que recebe o valor após a "/" e depois exibe uma pequena escrita 
+Exemplo na pratica de uma API simples utilizando Flask com python que recebe o valor após a "/" e depois exibe uma pequena escrita 
 de boas vindas utilizando o valor que foi passado.
 
 <h2>Código: </h2>
